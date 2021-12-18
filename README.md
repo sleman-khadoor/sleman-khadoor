@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sleman-khadoor
-- 👀 I’m interested in networking and systems
+- 👀 I’m interested in Networking, System Administration, DevOps, Cloud Technology, PHP Laravel Framework
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
